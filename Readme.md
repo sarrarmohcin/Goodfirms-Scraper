@@ -1,7 +1,7 @@
 
 <h1 align="center"> GoodFirms Scraper</h1>
 <div align="center" style="margin-bottom:15px;">
-    <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="license-AGPLv3-blue" style="margin-left:10px"/>
+    <img src="https://img.shields.io/badge/python-3.7%2B-blue" alt="python-3.7+" style="margin-left:10px"/>
 </div>
 
 ## About
